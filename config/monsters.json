@@ -1,0 +1,117 @@
+{
+    "common": {
+        "monster1": {
+            "walk": { "file": "common/monster1_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "common/monster1_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 12, "rows": 4 },
+            "death": { "file": "common/monster1_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 9, "rows": 4 }
+        },
+        "common1": {
+            "walk": { "file": "common/common1_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "common/common1_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 },
+            "death": { "file": "common/common1_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 }
+        },
+        "common2": {
+            "walk": { "file": "common/common2_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "common/common2_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 12, "rows": 4 },
+            "death": { "file": "common/common2_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 9, "rows": 4 }
+        },
+        "common3": {
+            "walk": { "file": "common/common3_walk.png", "frameWidth": 128, "frameHeight": 128, "cols": 8, "rows": 4 },
+            "attack": { "file": "common/common3_attack.png", "frameWidth": 128, "frameHeight": 128, "cols": 9, "rows": 4 },
+            "death": { "file": "common/common3_death.png", "frameWidth": 128, "frameHeight": 128, "cols": 8, "rows": 4 }
+        },
+        "common4": {
+            "walk": { "file": "common/common4_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 },
+            "attack": { "file": "common/common4_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 5, "rows": 4 },
+            "death": { "file": "common/common4_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 }
+        },
+        "common5": {
+            "walk": { "file": "common/common5_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "common/common5_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 },
+            "death": { "file": "common/common5_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 }
+        },
+        "common6": {
+            "walk": { "file": "common/common6_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 },
+            "attack": { "file": "common/common6_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "death": { "file": "common/common6_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 7, "rows": 4 }
+        },
+        "common7": {
+            "walk": { "file": "common/common7_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 },
+            "attack": { "file": "common/common7_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "death": { "file": "common/common7_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 7, "rows": 4 }
+        }
+    },
+
+    "elite": {
+        "elit1": {
+            "walk": { "file": "elite/elit1_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "elite/elit1_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 11, "rows": 4 },
+            "death": { "file": "elite/elit1_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 }
+        },
+        "elit2": {
+            "walk": { "file": "elite/elit2_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "elite/elit2_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 12, "rows": 4 },
+            "death": { "file": "elite/elit2_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 9, "rows": 4 }
+        },
+        "elit3": {
+            "walk": { "file": "elite/elit3_walk.png", "frameWidth": 128, "frameHeight": 128, "cols": 8, "rows": 4 },
+            "attack": { "file": "elite/elit3_attack.png", "frameWidth": 128, "frameHeight": 128, "cols": 9, "rows": 4 },
+            "death": { "file": "elite/elit3_death.png", "frameWidth": 128, "frameHeight": 128, "cols": 8, "rows": 4 }
+        },
+        "elit4": {
+            "walk": { "file": "elite/elit4_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 },
+            "attack": { "file": "elite/elit4_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 5, "rows": 4 },
+            "death": { "file": "elite/elit4_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 }
+        },
+        "elit5": {
+            "walk": { "file": "elite/elit5_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "elite/elit5_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 },
+            "death": { "file": "elite/elit5_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 }
+        }
+    },
+
+    "boss": {
+        "bos1": {
+            "walk": { "file": "boss/bos1_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "boss/bos1_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 9, "rows": 4 },
+            "hurt": { "file": "boss/bos1_hurt.png", "frameWidth": 64, "frameHeight": 64, "cols": 5, "rows": 4 },
+            "death": { "file": "boss/bos1_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 }
+        },
+        "bos2": {
+            "walk": { "file": "boss/bos2_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "boss/bos2_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 12, "rows": 4 },
+            "hurt": { "file": "boss/bos2_hurt.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 },
+            "death": { "file": "boss/bos2_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 9, "rows": 4 }
+        },
+        "bos3": {
+            "walk": { "file": "boss/bos3_walk.png", "frameWidth": 128, "frameHeight": 128, "cols": 8, "rows": 4 },
+            "attack": { "file": "boss/bos3_attack.png", "frameWidth": 128, "frameHeight": 128, "cols": 9, "rows": 4 },
+            "hurt": { "file": "boss/bos3_hurt.png", "frameWidth": 128, "frameHeight": 128, "cols": 4, "rows": 4 },
+            "death": { "file": "boss/bos3_death.png", "frameWidth": 128, "frameHeight": 128, "cols": 8, "rows": 4 }
+        },
+        "bos4": {
+            "walk": { "file": "boss/bos4_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 },
+            "attack": { "file": "boss/bos4_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 5, "rows": 4 },
+            "hurt": { "file": "boss/bos4_hurt.png", "frameWidth": 64, "frameHeight": 64, "cols": 4, "rows": 4 },
+            "death": { "file": "boss/bos4_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 6, "rows": 4 }
+        },
+        "bos5": {
+            "walk": { "file": "boss/bos5_walk.png", "frameWidth": 64, "frameHeight": 64, "cols": 8, "rows": 4 },
+            "attack": { "file": "boss/bos5_attack.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 },
+            "hurt": { "file": "boss/bos5_hurt.png", "frameWidth": 64, "frameHeight": 64, "cols": 5, "rows": 4 },
+            "death": { "file": "boss/bos5_death.png", "frameWidth": 64, "frameHeight": 64, "cols": 10, "rows": 4 }
+        }
+    },
+    
+    "stats": {
+        "common": { "baseHP": 60, "baseDMG": 5, "baseSpeed": 0.3, "baseCoin": 10 },
+        "elite": { "baseHP": 120, "baseDMG": 10, "baseSpeed": 0.25, "baseCoin": 25 },
+        "boss": { "baseHP": 800, "baseDMG": 20, "baseSpeed": 0.15, "baseCoin": 300, "hurtEvery": 6 }
+    },
+
+    "scaling": {
+        "hpPerWave": 0.10,
+        "dmgPerWave": 0.05,
+        "coinPerWave": 0.12
+    }
+}

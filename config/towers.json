@@ -1,0 +1,118 @@
+{
+    "tower_pistol": {
+        "name": "Basic Tower",
+        "rarity": "common",
+        "dmg": 10,
+        "fireRate": 1500,
+        "range": 500,
+        "bulletKey": "bulletA",
+        "bulletScale": 0.25,
+        "bulletSpeed": 4
+    },
+    "tower2": {
+        "name": "Rapid Tower",
+        "rarity": "common",
+        "dmg": 10,
+        "fireRate": 1000,
+        "range": 480,
+        "bulletKey": "tower2_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 4
+    },
+    "tower3": {
+        "name": "Rifle Tower",
+        "rarity": "elite",
+        "dmg": 20,
+        "fireRate": 1300,
+        "range": 550,
+        "bulletKey": "tower3_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 4.5
+    },
+    "tower4": {
+        "name": "Burst Tower",
+        "rarity": "elite",
+        "dmg": 16,
+        "fireRate": 1100,
+        "range": 530,
+        "bulletKey": "tower4_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 4.5
+    },
+    "tower5": {
+        "name": "Laser Tower",
+        "rarity": "epic",
+        "dmg": 35,
+        "fireRate": 1000,
+        "range": 620,
+        "bulletKey": "tower5_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 5
+    },
+    "tower6": {
+        "name": "Cannon Tower",
+        "rarity": "epic",
+        "dmg": 42,
+        "fireRate": 1200,
+        "range": 600,
+        "bulletKey": "tower6_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 5
+    },
+    "tower7": {
+        "name": "Plasma Tower",
+        "rarity": "legend",
+        "dmg": 60,
+        "fireRate": 900,
+        "range": 700,
+        "bulletKey": "tower7_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 5.5
+    },
+    "tower8": {
+        "name": "Soul Tower",
+        "rarity": "legend",
+        "dmg": 70,
+        "fireRate": 1000,
+        "range": 740,
+        "bulletKey": "tower8_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 5.5
+    },
+    "tower9": {
+        "name": "Void Tower",
+        "rarity": "mythical",
+        "dmg": 110,
+        "fireRate": 700,
+        "range": 820,
+        "bulletKey": "tower9_bullet",
+        "bulletScale": 0.25,
+        "bulletSpeed": 6
+    },
+    "upgrade": {
+        "common": {
+            "lv2": { "coin": 500, "ruby": 1000 },
+            "lv3": { "coin": 1500, "ruby": 2500 }
+        },
+        "elite": {
+            "lv2": { "coin": 1000, "ruby": 2500 },
+            "lv3": { "coin": 3000, "ruby": 6000 }
+        },
+        "epic": {
+            "lv2": { "coin": 2500, "ruby": 5000 },
+            "lv3": { "coin": 7000, "ruby": 12000 }
+        },
+        "legend": {
+            "lv2": { "coin": 6000, "ruby": 12000 },
+            "lv3": { "coin": 15000, "ruby": 25000 }
+        },
+        "mythical": {
+            "lv2": { "coin": 15000, "ruby": 30000 },
+            "lv3": { "coin": 35000, "ruby": 60000 }
+        }
+    },
+    "upgradeStats": {
+        "lv2": { "dmgMult": 1.4, "fireRateMult": 0.9, "rangeMult": 1.05 },
+        "lv3": { "dmgMult": 1.5, "fireRateMult": 0.9, "rangeMult": 1.10 }
+    }
+}
