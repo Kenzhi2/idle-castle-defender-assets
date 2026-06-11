@@ -1,0 +1,30 @@
+{
+    "gloves1": { "name": "Phantom Gloves", "rarity": "mythical", "dmg": 130 },
+    "gloves3": { "name": "Celestial Gloves", "rarity": "mythical", "dmg": 128 },
+    "gloves18": { "name": "Void Gloves", "rarity": "mythical", "dmg": 135 },
+
+    "gloves7": { "name": "Dragon Gloves", "rarity": "legend", "dmg": 58 },
+    "gloves12": { "name": "Phoenix Gloves", "rarity": "legend", "dmg": 55 },
+    "gloves15": { "name": "Thunder Gloves", "rarity": "legend", "dmg": 50 },
+    "gloves22": { "name": "Frost Gloves", "rarity": "legend", "dmg": 52 },
+
+    "gloves10": { "name": "Crystal Gloves", "rarity": "epic", "dmg": 10 },
+    "gloves14": { "name": "Storm Gloves", "rarity": "epic", "dmg": 8 },
+    "gloves17": { "name": "Flame Gloves", "rarity": "epic", "dmg": 9 },
+    "gloves19": { "name": "Iron Gloves", "rarity": "epic", "dmg": 10 },
+    "gloves24": { "name": "Wind Gloves", "rarity": "epic", "dmg": 8 },
+
+    "gloves2": { "name": "Steel Gloves", "rarity": "elite", "dmg": 5 },
+    "gloves4": { "name": "Bronze Gloves", "rarity": "elite", "dmg": 6 },
+    "gloves5": { "name": "Knight Gloves", "rarity": "elite", "dmg": 6 },
+    "gloves6": { "name": "Silver Gloves", "rarity": "elite", "dmg": 7 },
+    "gloves8": { "name": "Copper Gloves", "rarity": "elite", "dmg": 7 },
+
+    "gloves9": { "name": "Wooden Gloves", "rarity": "common", "dmg": 3 },
+    "gloves11": { "name": "Leather Gloves", "rarity": "common", "dmg": 3 },
+    "gloves13": { "name": "Cloth Gloves", "rarity": "common", "dmg": 4 },
+    "gloves16": { "name": "Hide Gloves", "rarity": "common", "dmg": 3 },
+    "gloves20": { "name": "Bone Gloves", "rarity": "common", "dmg": 4 },
+    "gloves21": { "name": "Stone Gloves", "rarity": "common", "dmg": 4 },
+    "gloves23": { "name": "Rope Gloves", "rarity": "common", "dmg": 3 }
+}
