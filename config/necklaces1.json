@@ -1,0 +1,32 @@
+{
+    "ring24": { "name": "Cosmic Ring", "rarity": "mythical", "str": 22 },
+    "ring25": { "name": "Eternal Ring", "rarity": "mythical", "str": 20 },
+    "ring26": { "name": "Divine Ring", "rarity": "mythical", "str": 25 },
+
+    "ring21": { "name": "Diamond Ring", "rarity": "legend", "str": 14 },
+    "ring22": { "name": "Emerald Ring", "rarity": "legend", "str": 12 },
+    "ring23": { "name": "Dragon Ring", "rarity": "legend", "str": 16 },
+
+    "ring16": { "name": "Ruby Ring", "rarity": "epic", "str": 10 },
+    "ring17": { "name": "Topaz Ring", "rarity": "epic", "str": 8 },
+    "ring18": { "name": "Amethyst Ring", "rarity": "epic", "str": 8 },
+    "ring19": { "name": "Opal Ring", "rarity": "epic", "str": 8 },
+    "ring20": { "name": "Jade Ring", "rarity": "epic", "str": 9 },
+
+    "ring11": { "name": "Sapphire Ring", "rarity": "elite", "str": 5 },
+    "ring12": { "name": "Garnet Ring", "rarity": "elite", "str": 5 },
+    "ring13": { "name": "Pearl Ring", "rarity": "elite", "str": 5 },
+    "ring14": { "name": "Quartz Ring", "rarity": "elite", "str": 6 },
+    "ring15": { "name": "Onyx Ring", "rarity": "elite", "str": 6 },
+
+    "ring1": { "name": "Rusty Ring", "rarity": "common", "str": 4 },
+    "ring2": { "name": "Copper Ring", "rarity": "common", "str": 3 },
+    "ring3": { "name": "Tin Ring", "rarity": "common", "str": 4 },
+    "ring4": { "name": "Brass Ring", "rarity": "common", "str": 4 },
+    "ring5": { "name": "Iron Ring", "rarity": "common", "str": 3 },
+    "ring6": { "name": "Lead Ring", "rarity": "common", "str": 4 },
+    "ring7": { "name": "Stone Ring", "rarity": "common", "str": 4 },
+    "ring8": { "name": "Bone Ring", "rarity": "common", "str": 3 },
+    "ring9": { "name": "Wood Ring", "rarity": "common", "str": 4 },
+    "ring10": { "name": "Clay Ring", "rarity": "common", "str": 3 }
+}

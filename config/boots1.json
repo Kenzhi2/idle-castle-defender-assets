@@ -1,0 +1,30 @@
+{
+    "boot1": { "name": "Phantom Boot", "rarity": "mythical", "hp": 35, "def": 37 },
+    "boot3": { "name": "Celestial Boot", "rarity": "mythical", "hp": 30, "def": 35 },
+    "boot18": { "name": "Void Boot", "rarity": "mythical", "hp": 40, "def": 30 },
+
+    "boot7": { "name": "Dragon Boot", "rarity": "legend", "hp": 20, "def": 15 },
+    "boot12": { "name": "Phoenix Boot", "rarity": "legend", "hp": 18, "def": 16 },
+    "boot15": { "name": "Thunder Boot", "rarity": "legend", "hp": 22, "def": 16 },
+    "boot22": { "name": "Frost Boot", "rarity": "legend", "hp": 25, "def": 15 },
+
+    "boot10": { "name": "Crystal Boot", "rarity": "epic", "hp": 9, "def": 10 },
+    "boot14": { "name": "Storm Boot", "rarity": "epic", "hp": 7, "def": 11 },
+    "boot17": { "name": "Flame Boot", "rarity": "epic", "hp": 8, "def": 10 },
+    "boot19": { "name": "Iron Boot", "rarity": "epic", "hp": 10, "def": 11 },
+    "boot24": { "name": "Wind Boot", "rarity": "epic", "hp": 7, "def": 10 },
+
+    "boot2": { "name": "Steel Boot", "rarity": "elite", "hp": 5, "def": 6 },
+    "boot4": { "name": "Bronze Boot", "rarity": "elite", "hp": 6, "def": 7 },
+    "boot5": { "name": "Knight Boot", "rarity": "elite", "hp": 6, "def": 6 },
+    "boot6": { "name": "Silver Boot", "rarity": "elite", "hp": 6, "def": 7 },
+    "boot8": { "name": "Copper Boot", "rarity": "elite", "hp": 6, "def": 6 },
+
+    "boot9": { "name": "Wooden Boot", "rarity": "common", "hp": 3, "def": 3 },
+    "boot11": { "name": "Leather Boot", "rarity": "common", "hp": 3, "def": 4 },
+    "boot13": { "name": "Cloth Boot", "rarity": "common", "hp": 3, "def": 3 },
+    "boot16": { "name": "Hide Boot", "rarity": "common", "hp": 3, "def": 3 },
+    "boot20": { "name": "Bone Boot", "rarity": "common", "hp": 3, "def": 4 },
+    "boot21": { "name": "Stone Boot", "rarity": "common", "hp": 3, "def": 4 },
+    "boot23": { "name": "Rope Boot", "rarity": "common", "hp": 3, "def": 3 }
+}

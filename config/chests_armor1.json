@@ -1,0 +1,30 @@
+{
+    "chest1": { "name": "Phantom Chest", "rarity": "mythical", "hp": 48, "def": 22 },
+    "chest3": { "name": "Celestial Chest", "rarity": "mythical", "hp": 42, "def": 20 },
+    "chest18": { "name": "Void Chest", "rarity": "mythical", "hp": 55, "def": 25 },
+
+    "chest7": { "name": "Dragon Chest", "rarity": "legend", "hp": 30, "def": 15 },
+    "chest12": { "name": "Phoenix Chest", "rarity": "legend", "hp": 28, "def": 13 },
+    "chest15": { "name": "Thunder Chest", "rarity": "legend", "hp": 33, "def": 17 },
+    "chest22": { "name": "Frost Chest", "rarity": "legend", "hp": 35, "def": 18 },
+
+    "chest10": { "name": "Crystal Chest", "rarity": "epic", "hp": 15, "def": 9 },
+    "chest14": { "name": "Storm Chest", "rarity": "epic", "hp": 12, "def": 7 },
+    "chest17": { "name": "Flame Chest", "rarity": "epic", "hp": 14, "def": 8 },
+    "chest19": { "name": "Iron Chest", "rarity": "epic", "hp": 16, "def": 10 },
+    "chest24": { "name": "Wind Chest", "rarity": "epic", "hp": 13, "def": 8 },
+
+    "chest2": { "name": "Steel Chest", "rarity": "elite", "hp": 8, "def": 5 },
+    "chest4": { "name": "Bronze Chest", "rarity": "elite", "hp": 7, "def": 4 },
+    "chest5": { "name": "Knight Chest", "rarity": "elite", "hp": 9, "def": 6 },
+    "chest6": { "name": "Silver Chest", "rarity": "elite", "hp": 10, "def": 7 },
+    "chest8": { "name": "Copper Chest", "rarity": "elite", "hp": 7, "def": 4 },
+
+    "chest9": { "name": "Wooden Chest", "rarity": "common", "hp": 4, "def": 3 },
+    "chest11": { "name": "Leather Chest", "rarity": "common", "hp": 5, "def": 3 },
+    "chest13": { "name": "Cloth Chest", "rarity": "common", "hp": 3, "def": 4 },
+    "chest16": { "name": "Hide Chest", "rarity": "common", "hp": 5, "def": 3 },
+    "chest20": { "name": "Bone Chest", "rarity": "common", "hp": 3, "def": 4 },
+    "chest21": { "name": "Stone Chest", "rarity": "common", "hp": 4, "def": 4 },
+    "chest23": { "name": "Rope Chest", "rarity": "common", "hp": 3, "def": 3 }
+}

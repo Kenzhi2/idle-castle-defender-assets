@@ -1,0 +1,41 @@
+{
+    "nc32": { "name": "Cosmic Amulet", "rarity": "mythical", "hp": 30, "dmg": 18 },
+    "nc33": { "name": "Eternal Amulet", "rarity": "mythical", "hp": 28, "dmg": 15 },
+    "nc34": { "name": "Celestial Amulet", "rarity": "mythical", "hp": 35, "dmg": 20 },
+    "nc35": { "name": "Divine Amulet", "rarity": "mythical", "hp": 32, "dmg": 18 },
+
+    "nc28": { "name": "Diamond Amulet", "rarity": "legend", "hp": 18, "dmg": 10 },
+    "nc29": { "name": "Emerald Amulet", "rarity": "legend", "hp": 15, "dmg": 8 },
+    "nc30": { "name": "Dragon Amulet", "rarity": "legend", "hp": 20, "dmg": 12 },
+    "nc31": { "name": "Phoenix Amulet", "rarity": "legend", "hp": 22, "dmg": 13 },
+
+    "nc23": { "name": "Ruby Amulet", "rarity": "epic", "hp": 8, "dmg": 7 },
+    "nc24": { "name": "Topaz Amulet", "rarity": "epic", "hp": 7, "dmg": 8 },
+    "nc25": { "name": "Amethyst Amulet", "rarity": "epic", "hp": 9, "dmg": 8 },
+    "nc26": { "name": "Opal Amulet", "rarity": "epic", "hp": 8, "dmg": 8 },
+    "nc27": { "name": "Jade Amulet", "rarity": "epic", "hp": 10, "dmg": 8 },
+
+    "nc11": { "name": "Sapphire Amulet", "rarity": "elite", "hp": 6, "dmg": 5 },
+    "nc12": { "name": "Garnet Amulet", "rarity": "elite", "hp": 6, "dmg": 6 },
+    "nc13": { "name": "Pearl Amulet", "rarity": "elite", "hp": 5, "dmg": 5 },
+    "nc14": { "name": "Quartz Amulet", "rarity": "elite", "hp": 4, "dmg": 6 },
+    "nc15": { "name": "Onyx Amulet", "rarity": "elite", "hp": 5, "dmg": 6 },
+    "nc16": { "name": "Amber Amulet", "rarity": "elite", "hp": 5, "dmg": 5 },
+    "nc17": { "name": "Coral Amulet", "rarity": "elite", "hp": 4, "dmg": 6 },
+    "nc18": { "name": "Agate Amulet", "rarity": "elite", "hp": 5, "dmg": 6 },
+    "nc19": { "name": "Turquoise Amulet", "rarity": "elite", "hp": 5, "dmg": 6 },
+    "nc20": { "name": "Citrine Amulet", "rarity": "elite", "hp": 6, "dmg": 5 },
+    "nc21": { "name": "Jasper Amulet", "rarity": "elite", "hp": 3, "dmg": 6 },
+    "nc22": { "name": "Moonstone Amulet", "rarity": "elite", "hp": 5, "dmg": 5 },
+
+    "nc1": { "name": "Rusty Amulet", "rarity": "common", "hp": 3, "dmg": 3 },
+    "nc2": { "name": "Copper Amulet", "rarity": "common", "hp": 4, "dmg": 4 },
+    "nc3": { "name": "Tin Amulet", "rarity": "common", "hp": 3, "dmg": 3 },
+    "nc4": { "name": "Brass Amulet", "rarity": "common", "hp": 4, "dmg": 4 },
+    "nc5": { "name": "Iron Amulet", "rarity": "common", "hp": 3, "dmg": 3 },
+    "nc6": { "name": "Lead Amulet", "rarity": "common", "hp": 3, "dmg": 4 },
+    "nc7": { "name": "Stone Amulet", "rarity": "common", "hp": 3, "dmg": 3 },
+    "nc8": { "name": "Bone Amulet", "rarity": "common", "hp": 4, "dmg": 4 },
+    "nc9": { "name": "Wood Amulet", "rarity": "common", "hp": 3, "dmg": 4 },
+    "nc10": { "name": "Clay Amulet", "rarity": "common", "hp": 3, "dmg": 3 }
+}
