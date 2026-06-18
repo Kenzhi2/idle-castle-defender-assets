@@ -1,0 +1,30 @@
+{
+    "helmet1": { "name": "Phantom Helmet", "rarity": "mythical", "hp": 455 },
+    "helmet3": { "name": "Celestial Helmet", "rarity": "mythical", "hp": 450 },
+    "helmet18": { "name": "Void Helmet", "rarity": "mythical", "hp": 460 },
+
+    "helmet7": { "name": "Dragon Helmet", "rarity": "legend", "hp": 235 },
+    "helmet12": { "name": "Phoenix Helmet", "rarity": "legend", "hp": 232 },
+    "helmet15": { "name": "Thunder Helmet", "rarity": "legend", "hp": 238 },
+    "helmet22": { "name": "Frost Helmet", "rarity": "legend", "hp": 240 },
+
+    "helmet10": { "name": "Crystal Helmet", "rarity": "epic", "hp": 85 },
+    "helmet14": { "name": "Storm Helmet", "rarity": "epic", "hp": 82 },
+    "helmet17": { "name": "Flame Helmet", "rarity": "epic", "hp": 81 },
+    "helmet19": { "name": "Iron Helmet", "rarity": "epic", "hp": 84 },
+    "helmet24": { "name": "Wind Helmet", "rarity": "epic", "hp": 83 },
+
+    "helmet2": { "name": "Steel Helmet", "rarity": "elite", "hp": 48 },
+    "helmet4": { "name": "Bronze Helmet", "rarity": "elite", "hp": 46 },
+    "helmet6": { "name": "Silver Helmet", "rarity": "elite", "hp": 40 },
+    "helmet8": { "name": "Copper Helmet", "rarity": "elite", "hp": 47 },
+    "helmet5": { "name": "Knight Helmet", "rarity": "elite", "hp": 49 },
+
+    "helmet9": { "name": "Wooden Helmet", "rarity": "common", "hp": 23 },
+    "helmet11": { "name": "Leather Helmet", "rarity": "common", "hp": 24 },
+    "helmet13": { "name": "Cloth Helmet", "rarity": "common", "hp": 24 },
+    "helmet16": { "name": "Hide Helmet", "rarity": "common", "hp": 25 },
+    "helmet20": { "name": "Bone Helmet", "rarity": "common", "hp": 23 },
+    "helmet21": { "name": "Stone Helmet", "rarity": "common", "hp": 24 },
+    "helmet23": { "name": "Rope Helmet", "rarity": "common", "hp": 24 }
+}

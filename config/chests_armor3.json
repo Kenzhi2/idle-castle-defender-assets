@@ -1,0 +1,30 @@
+{
+    "chest1": { "name": "Phantom Chest", "rarity": "mythical", "hp": 448, "def": 422 },
+    "chest3": { "name": "Celestial Chest", "rarity": "mythical", "hp": 442, "def": 420 },
+    "chest18": { "name": "Void Chest", "rarity": "mythical", "hp": 455, "def": 425 },
+
+    "chest7": { "name": "Dragon Chest", "rarity": "legend", "hp": 150, "def": 155 },
+    "chest12": { "name": "Phoenix Chest", "rarity": "legend", "hp": 158, "def": 153 },
+    "chest15": { "name": "Thunder Chest", "rarity": "legend", "hp": 153, "def": 157 },
+    "chest22": { "name": "Frost Chest", "rarity": "legend", "hp": 155, "def": 158 },
+
+    "chest10": { "name": "Crystal Chest", "rarity": "epic", "hp": 85, "def": 89 },
+    "chest14": { "name": "Storm Chest", "rarity": "epic", "hp": 82, "def": 87 },
+    "chest17": { "name": "Flame Chest", "rarity": "epic", "hp": 84, "def": 88 },
+    "chest19": { "name": "Iron Chest", "rarity": "epic", "hp": 86, "def": 80 },
+    "chest24": { "name": "Wind Chest", "rarity": "epic", "hp": 83, "def": 88 },
+
+    "chest2": { "name": "Steel Chest", "rarity": "elite", "hp": 48, "def": 45 },
+    "chest4": { "name": "Bronze Chest", "rarity": "elite", "hp": 47, "def": 44 },
+    "chest5": { "name": "Knight Chest", "rarity": "elite", "hp": 49, "def": 46 },
+    "chest6": { "name": "Silver Chest", "rarity": "elite", "hp": 40, "def": 47 },
+    "chest8": { "name": "Copper Chest", "rarity": "elite", "hp": 47, "def": 44 },
+
+    "chest9": { "name": "Wooden Chest", "rarity": "common", "hp": 24, "def": 23 },
+    "chest11": { "name": "Leather Chest", "rarity": "common", "hp": 25, "def": 23 },
+    "chest13": { "name": "Cloth Chest", "rarity": "common", "hp": 23, "def": 24 },
+    "chest16": { "name": "Hide Chest", "rarity": "common", "hp": 25, "def": 23 },
+    "chest20": { "name": "Bone Chest", "rarity": "common", "hp": 23, "def": 24 },
+    "chest21": { "name": "Stone Chest", "rarity": "common", "hp": 24, "def": 24 },
+    "chest23": { "name": "Rope Chest", "rarity": "common", "hp": 23, "def": 23 }
+}
